@@ -31,5 +31,10 @@
 #### Locate the SSH key you created for the grader user.
 * ssh grader@54.68.23.254 -p 2200 -i priv_key
 * grader sudo password: graderpassword
-* Private Key
 
+#### Resources links
+* https://pythonhosted.org/Flask-Session/
+* https://www.digitalocean.com/community/tutorials/ufw-essentials-common-firewall-rules-and-commands
+* https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-18-04
+* https://www.ssh.com/ssh/keygen/#sec-What-Is-ssh-keygen
+* https://www.freenom.com/en/index.html?lang=en
